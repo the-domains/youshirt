@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[youshirt]]></title>
         <description><![CDATA[youshirt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/youshirt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 19:23:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 19:48:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/youshirt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8291f6aa-cf5d-4934-af3c-bffbfdbf7551.png">]]></description>
-            <link>undefined70b353b1-8716-45ba-8a98-97287e2cb118/index.html</link>
+            <link>https://thegrid.ai/youshirt/70b353b1-8716-45ba-8a98-97287e2cb118/index.html</link>
             <guid isPermaLink="false">70b353b1-8716-45ba-8a98-97287e2cb118</guid>
-            <pubDate>Tue, 09 Feb 2016 19:21:44 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 19:47:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
